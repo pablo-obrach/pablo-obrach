@@ -1,7 +1,7 @@
 - 👋<h1> Hi, I’m @pablo-obrach</h1>
-- 👀 I’m from Argentina, South America.
-- 🌱 I’m currently learning: JavaScript .
-
+- 👀 <h2>I’m from Argentina, South America.</h2>
+- 🌱 <h2> I’m currently learning: JavaScript . </h2>
+- 🐱‍👤 <h2> I want to wish you a great day!</h2>
 
 
 <!---
